@@ -50,7 +50,7 @@ responsibilities = {
 	},
 	'Integrity': {
 		'Point 1': ['Risk'],
-		'Point 2': ['Programming' 'BDD'],
+		'Point 2': ['Programming', 'BDD'],
 		'Point 3': ['Finance'],
 		'Point 4': ['Finance'],
 		'Point 5': ['Finance'],
