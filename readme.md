@@ -14,3 +14,4 @@ This is a parser for the SOE live tracker data. I exported the live tracker to a
     - Instructions are probably slightly different for windows.
 - In the root directory run `pip3 install -r requirements.txt` to install the dependencies.
 - You should now be able to run `python3 soeParser.py` and the data should be added to the notion database.
+- See `whatToSubmit.py` for an example of how to update the notion pages with what to submit after obtaining the inital SOE data.
