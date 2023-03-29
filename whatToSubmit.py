@@ -1,3 +1,6 @@
+# First I exported the google doc (the checklist one) to a webpage
+# Then I downloaded the webpage and replaced the links since they all had a google query prefixed to them
+# Then I ran this script to get the information from the webpage and update the notion page
 import requests
 import concurrent.futures
 import pprint
